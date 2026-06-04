@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>China Travel Helper - Legal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 60px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .logo {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            color: #1a1a1a;
+            font-size: 36px;
+            margin-bottom: 15px;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            padding: 40px;
+            border-radius: 16px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-decoration: none;
+            color: #333;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+        }
+        
+        .card-icon {
+            font-size: 64px;
+            margin-bottom: 20px;
+        }
+        
+        .card h2 {
+            font-size: 24px;
+            color: #1a1a1a;
+            margin-bottom: 15px;
+        }
+        
+        .card p {
+            color: #666;
+            font-size: 16px;
+        }
+        
+        .card.privacy {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .card.privacy h2,
+        .card.privacy p {
+            color: white;
+        }
+        
+        .card.terms {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+        }
+        
+        .card.terms h2,
+        .card.terms p {
+            color: white;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 30px;
+            border-top: 1px solid #e5e5e5;
+            color: #999;
+            font-size: 14px;
+        }
+        
+        .lang-toggle {
+            background: #3B82F6;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 30px;
+            transition: background 0.3s;
+        }
+        
+        .lang-toggle:hover {
+            background: #1E40AF;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px;
+            }
+            
+            h1 {
+                font-size: 28px;
+            }
+            
+            .cards {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">🌍</div>
+            <h1>China Travel Helper</h1>
+            <p class="subtitle" id="subtitle">Your essential travel companion for visiting China</p>
+            <button class="lang-toggle" onclick="toggleLang()">切换到中文</button>
+        </div>
+        
+        <div class="cards">
+            <a href="/privacy" class="card privacy">
+                <div class="card-icon">🔒</div>
+                <h2 id="card1-title">Privacy Policy</h2>
+                <p id="card1-desc">Learn how we collect, use, and protect your data</p>
+            </a>
+            
+            <a href="/terms" class="card terms">
+                <div class="card-icon">📜</div>
+                <h2 id="card2-title">Terms of Service</h2>
+                <p id="card2-desc">Understand the terms and conditions for using our app</p>
+            </a>
+        </div>
+        
+        <div class="footer">
+            <p>© 2026 China Travel Helper. All rights reserved.</p>
+        </div>
+    </div>
+    
+    <script>
+        const translations = {
+            en: {
+                subtitle: 'Your essential travel companion for visiting China',
+                card1Title: 'Privacy Policy',
+                card1Desc: 'Learn how we collect, use, and protect your data',
+                card2Title: 'Terms of Service',
+                card2Desc: 'Understand the terms and conditions for using our app',
+                btnText: '切换到中文'
+            },
+            zh: {
+                subtitle: '您访问中国的必备旅行助手',
+                card1Title: '隐私政策',
+                card1Desc: '了解我们如何收集、使用和保护您的数据',
+                card2Title: '用户协议',
+                card2Desc: '了解使用本应用的相关条款和条件',
+                btnText: 'Switch to English'
+            }
+        };
+        
+        let currentLang = 'en';
+        
+        function toggleLang() {
+            currentLang = currentLang === 'en' ? 'zh' : 'en';
+            const t = translations[currentLang];
+            
+            document.getElementById('subtitle').textContent = t.subtitle;
+            document.getElementById('card1-title').textContent = t.card1Title;
+            document.getElementById('card1-desc').textContent = t.card1Desc;
+            document.getElementById('card2-title').textContent = t.card2Title;
+            document.getElementById('card2-desc').textContent = t.card2Desc;
+            document.querySelector('.lang-toggle').textContent = t.btnText;
+            
+            document.body.style.fontFamily = currentLang === 'zh' 
+                ? "'PingFang SC', 'Microsoft YaHei', sans-serif" 
+                : "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+        }
+    </script>
+</body>
+</html>
