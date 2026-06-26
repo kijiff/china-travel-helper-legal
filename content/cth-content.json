@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "updated": "2026-06-26",
+  "guideChapters": [
+    {
+      "id": "arrival",
+      "title": "抵达与电话卡",
+      "titleEn": "Arrival & SIM",
+      "icon": "🛬",
+      "sections": [
+        {
+          "id": "arrival-1",
+          "title": "办理本地电话卡",
+          "titleEn": "Getting a Local SIM Card",
+          "content": "Welcome to China! In China, a smartphone paired with a local SIM card is the master key to experiencing a highly digital lifestyle. While a local phone number is not strictly required for basic payments via Alipay, getting a local SIM card is essential for you to independently and smoothly enjoy your stay.\n\nWhy Do You Need a Local Chinese Phone Number?\n\nIn China, a phone number is more than just a communication tool; it is your passport to various digital services. Having a local number will unlock the following conveniences:\n\n- Transportation & Ride-Hailing: Local numbers are required to register and receive trip notifications on apps like Didi, as well as for navigation apps like Amap and Baidu Maps.\n- Attractions & Ticketing: Most scenic spots have resumed offline ticket sales. However, a few top-tier attractions (such as the Forbidden City and the National Museum in Beijing) still require online real-name reservations, which need a local Chinese number for verification codes.\n- Train Tickets: Using platforms like 12306 to buy train tickets is much smoother with a local number, ensuring you receive identity verification and trip updates.\n- Daily Services: QR code ordering at restaurants, food delivery platforms, and bike-sharing generally require a local phone number for registration.\n- Account Security & Limits: Binding a local Chinese phone number to Alipay or WeChat helps improve your account security and unlocks higher transaction limits.\n\neSIM Notice (2026):\n\nIf you use an eSIM-only phone (such as global iPhone Air, or US iPhone 17 series): As of 2026, mainland China eSIM is still in commercial trial. It only supports specific phones sold in mainland China. All overseas devices cannot install eSIM profiles for mainland China carriers.\n\nAlternatives if your phone lacks a physical SIM slot:\n- Bring a backup phone that supports physical SIM cards.\n- Rent or buy a portable WiFi device at Chinese airports.\n- Use an overseas travel eSIM data plan (e.g. Airalo) for basic connectivity, but you won't get a local number.\n\nPre-Departure: Check Your Device\n\nEnsure your phone is network-unlocked. If locked, contact your carrier before leaving. Also verify your phone supports Chinese 5G or VoLTE standards.\n\nOffline Registration: Bring Your Passport, Get It Instantly\n\nRequired Documents: Your original passport (or Foreign Permanent Resident ID Card).\n\nChoose a Carrier:\n- China Mobile: 10086\n- China Unicom: 10010\n- China Telecom: 10000\n- China Broadnet: 10099\n\nVisit a flagship business hall at the airport, city center, or major train station. These locations usually have English-speaking staff. Real-name registration by law requires you in person. Max 5 SIMs per carrier per person.\n\nChoose a Plan: Ask about Short-Term Travel SIM Packages (7, 15, or 30-day data plans). These are much cheaper than international roaming and auto-expire.\n\nPost-Activation Setup: Top-Up & Essential Apps\n\nTop up via the carrier app using Alipay/WeChat, or at the business hall. Download essential apps: Alipay, WeChat, Amap, Baidu Maps, Didi.\n\nPayment Binding Tip: Alipay/WeChat support Visa/Mastercard. ≤200 RMB: fee-free. >200 RMB: 3% service fee. Annual limit: $50,000.\n\nTrain Ticket Tip: 12306 offers an English website and app. Foreign travelers can book with passport, paying by int'l card or mobile payment.",
+          "contentZh": "欢迎来到中国！在中国，一部智能手机配合本地电话卡，是体验高度数字化生活的万能钥匙。虽然仅使用支付宝进行基础支付并不强制要求本地手机号，但为了让您能够完全独立、顺畅地享受在华生活，办理一张本地SIM卡至关重要。\n\n为什么需要中国本地手机号？\n\n在中国，手机号不仅仅是通讯工具，更是各类数字服务的通行证。拥有本地号码，您将解锁以下便利：\n\n- 出行与打车：使用滴滴等网约车App，或查询高德地图、百度地图时，本地号码是注册和接收行程通知的必备条件。\n- 景点与票务：中国大多数景区已恢复线下售票。但少数顶级热门景区（如北京故宫、国家博物馆等）仍实行全网实名分时预约，必须通过App或小程序操作，通常需要中国手机号接收验证码。\n- 交通购票：使用12306购买火车票时，本地号码能确保您顺利通过身份核验并接收行程变动通知。\n- 生活服务：扫码点餐、外卖平台、共享单车等日常服务，普遍要求使用本地手机号注册和验证。\n- 账号安全与额度：将支付宝或微信绑定中国本地手机号，有助于提升账号安全等级，解锁更高交易额度。\n\neSIM说明（2026年）：\n\n如果您使用仅支持eSIM的手机（如iPhone Air全球版、美国版iPhone 17系列等）：截至2026年，中国大陆eSIM仍处于商用试验阶段，仅支持国行特定机型。所有海外版设备均无法安装中国大陆运营商的eSIM。\n\n替代方案：\n- 携带一部支持实体SIM卡的备用手机。\n- 在中国机场租赁或购买便携式移动WiFi设备。\n- 使用境外旅行eSIM数据卡（如Airalo）保持基础网络连接，但此方式无法获得中国本地手机号。\n\n出发前：检查手机设备\n\n确认手机为网络解锁状态。如果手机被锁定，请提前联系本国运营商解锁。同时确认手机支持中国5G或VoLTE网络制式。\n\n线下办理：本人持证，即办即取\n\n必备证件：护照原件（或外国人永久居留身份证）。\n\n选择运营商：\n- 中国移动：10086\n- 中国联通：10010\n- 中国电信：10000\n- 中国广电：10099\n\n前往机场、市中心或大型火车站的旗舰营业厅。这些网点通常有外语能力的工作人员。根据中国法律要求，必须本人携带证件前往办理。同一用户同一运营商最多办理5张。\n\n选择套餐：推荐短期旅行通信卡套餐（7天、15天或30天流量包），资费远低于国际漫游，到期自动注销。\n\n入网后设置：激活与充值\n\n通过运营商官方App使用支付宝/微信充值，或在营业厅柜台支付。下载必备应用：支付宝、微信、高德地图、百度地图、滴滴出行。\n\n绑卡提示：支付宝和微信支持绑定Visa/Mastercard等国际银行卡。单笔≤200元免手续费，>200元收3%服务费。年累计限额5万美元。\n\n火车票提示：12306提供英文版网站和App，外国旅客可直接使用护照在线购票，支持境内外银行卡及移动支付。"
+        },
+        {
+          "id": "arrival-2",
+          "title": "eSIM说明",
+          "titleEn": "eSIM Guide",
+          "content": "eSIM Notice (2026):\n\nMainland China eSIM is still in commercial trial. Only specific phones sold in mainland China (e.g. Mainland iPhone Air) support it. All overseas devices CANNOT install eSIM profiles for mainland China carriers.\n\nIf your phone is eSIM-only:\n- Bring a backup phone with physical SIM slot.\n- Rent portable WiFi at Chinese airports.\n- Use overseas travel eSIM (e.g. Airalo) for basic connectivity — but no local number means some apps (Didi, bike-sharing) won't work.",
+          "contentZh": "eSIM说明（2026年）：\n\n中国大陆eSIM仍处于商用试验阶段，仅支持国行特定机型（如国行iPhone Air）。所有海外版设备均无法安装中国大陆运营商的eSIM。\n\neSIM-only手机替代方案：\n- 携带一部支持实体SIM卡的备用手机。\n- 租赁便携式移动WiFi。\n- 使用境外旅行eSIM（如Airalo）保持基础网络连接，但无法获得本地手机号，部分App（滴滴、共享单车）可能无法使用。"
+        },
+        {
+          "id": "arrival-3",
+          "title": "边检与海关申报",
+          "titleEn": "Border Inspection & Customs",
+          "content": "Part 1: Border Inspection - Arrival Card\n\nSince November 2025, China requires all foreign visitors to complete the Arrival Card online in advance, replacing the paper card.\n\nOfficial Free Channels (watch out for fake websites asking for payment):\n- Alipay/WeChat: Search for the immigration mini-program.\n- Web: https://s.nia.gov.cn/ArrivalCardFillingPC/\n- QR code at port or self-service kiosks.\n\nTips: Fill in 1-2 hours before landing. Add companions to share one form. Screenshot the QR code. Exempt: Foreign Permanent Resident ID holders, 24-hour transit.\n\nPart 2: Customs Declaration\n\nBased on Customs Decree No.276 (effective April 2025).\n\nCash Limits (MUST DECLARE):\n- Foreign currency: Over $5,000 USD equivalent.\n- RMB: Over 20,000 RMB.\n(Excess may be confiscated.)\n\nItems to Declare (Red Channel):\n- Animals/plants/products: raw meat, fresh fruit, dairy, bird's nest (canned exempt).\n- Personal items valued over 2,000 RMB intended to stay in China.\n- Cigarettes over 400 sticks, or 20 cigars, or 500g tobacco.\n- Alcohol (over 12% ABV) over 1,500ml.\n- Professional equipment (expensive cameras, laptops).\n\nProhibited: Weapons, drugs, counterfeit currency, harmful publications, soil, GMO materials.\n\nPart 3: Practical Tips\n\nPre-fill via: Search for customs declaration mini-program on Alipay/WeChat. Generate a black-and-white QR code.\n\nNote: The Immigration QR code and Customs QR code are TWO DIFFERENT codes. You need both.\n\nRed Channel = have items to declare. Green Channel = nothing to declare.\n\nMajor ports have multilingual staff.",
+          "contentZh": "第一部分：边防检查（外国人入境卡）\n\n自2025年11月20日起，国家移民管理局全面推行外国人入境卡网上填报，替代传统纸质卡片。官方免费渠道（警惕境外假冒收费网站）：\n- 支付宝/微信小程序：搜索「移民局12367」或「外国人入境卡」。\n- 网页端：https://s.nia.gov.cn/ArrivalCardFillingPC/\n- 现场填报：扫描口岸专用二维码或使用自助终端。\n\n填报技巧：落地前1-2小时完成（二维码有效期24小时）。有同行人时可添加同行人，一人填报多人共享。截图保存二维码（机舱内网络可能不佳）。持外国人永久居留身份证、24小时直接过境等7类人员免填。\n\n第二部分：海关行李申报\n\n依据海关总署令第276号（2025年4月1日实施）。\n\n现金限额（超限必须申报）：\n- 外币现钞：超过等值5,000美元。\n- 人民币现钞：超过20,000元。\n超出可能被退运或没收。\n\n必须申报物品（走红色通道）：\n- 动植物及其产品：生肉、新鲜果蔬、蛋奶制品、燕窝（罐头装除外）等。\n- 自用物品超值：拟留在境内物品总值超过2,000元人民币。\n- 香烟超过400支、雪茄超过20支、烟丝超过500克。\n- 酒精饮料（12度以上）超过1,500毫升。\n- 专业器材（高价相机、电脑）。\n\n禁止携带：武器弹药、毒品、伪造货币、危害国家安全出版物、土壤及转基因生物材料。\n\n第三部分：通关建议\n\n电子申报预填：支付宝/微信搜索「海关旅客指尖申报」小程序，提前填写生成黑白色二维码。\n\n注意：移民局的码和海关的码是两个不同的二维码，都需要出示。\n\n红色通道=有物品需申报。绿色通道=无申报。\n\n各口岸配备多语种志愿者或民警。"
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "title": "移动支付",
+      "titleEn": "Mobile Payments",
+      "icon": "💳",
+      "sections": [
+        {
+          "id": "payment-1",
+          "title": "设置支付宝国际版",
+          "titleEn": "Setting Up Alipay",
+          "content": "Step 1: Download & Register\nDownload the App: Search for \"Alipay\" in your App Store or Android market and install it.\nSelect International Version: On the registration page, please select \"International Version\".\nRegister: Sign up using your overseas phone number or email (e.g., Gmail, Outlook) and enter the verification code.\n\nStep 2: Link Your International Card\nAlipay supports major international cards: Visa, Mastercard, JCB, Diners Club, and Discover.\nGo to Add Card: Tap [Me] (bottom right) → [Bank Cards] → [+ Add new bank card].\nEnter Card Details: Input your card number, expiration date, and CVV.\nVerify: Complete the SMS or 3D Secure verification. You may also need to upload your passport for identity verification to unlock higher limits.\n\nStep 3: Start Paying\nScan to Pay: Tap [Scan] on the homepage to scan the merchant's QR code, enter the amount, and confirm.\nShow Payment Code: Tap [Pay] on the homepage and show the barcode/QR code to the merchant to scan.\n\nKey Notes & Policies\nTransaction Limits: The single transaction limit has been raised to $5,000 USD, and the annual limit to $50,000 USD.\nTransaction Fees: ≤200 RMB: No fee. >200 RMB: 3% service fee.\nSupported Services: Daily expenses (dining, transport, shopping, hotels). NOT supported: personal transfers, red packets, wealth management, insurance, withdrawal to overseas bank accounts.\nExchange Rate: Settled in real-time by your card issuer and network.\nCustomer Support: 95188 (English service available).",
+          "contentZh": "第一步：下载与注册\n下载应用：在手机应用商店搜索\"Alipay\"并下载安装。\n选择国际版：在注册页面，请务必选择\"国际版\"（International Version）。\n注册：使用您的海外手机号码或常用邮箱接收验证码，完成注册。\n\n第二步：绑定国际银行卡\n支付宝支持绑定 Visa、Mastercard、JCB、Diners Club 和 Discover 等主流国际银行卡。\n进入绑卡页面：点击右下角的【Me】（我的）→【Bank Cards】（银行卡）→【+ Add new bank card】。\n输入卡片信息：输入您的银行卡号、有效期和安全码。\n身份验证：完成短信或3D安全验证。可能需要上传护照照片进行实名认证。\n\n第三步：开始支付\n主扫：点击首页的【Scan】（扫一扫），扫描商家二维码，输入金额后确认支付。\n被扫：点击首页的【Pay】（付钱），向商家展示您的手机付款码。\n\n关键注意事项\n交易限额：单笔最高5,000美元，年累计最高50,000美元。\n手续费：单笔≤200元免手续费；>200元收取3%服务费。\n不支持：个人转账、收发红包、理财、保险及提现至海外银行卡。\n客服热线：95188（支持英语服务）。"
+        },
+        {
+          "id": "payment-2",
+          "title": "微信支付设置",
+          "titleEn": "Setting Up WeChat Pay",
+          "content": "Step 1: Download & Register WeChat\nDownload/update WeChat from App Store / Google Play. Tap Sign Up, select your country code, enter your international phone number, verify via SMS, and log in.\n\nStep 2: Access Wallet\nTap Me → Services → Wallet. Can't see Wallet? Go to Me → Settings → General → Features, enable WeChat Pay.\n\nStep 3: Identity Verification (Passport eKYC)\nTap Identity Info, select Passport as ID type. Take a photo of your passport data page. Complete the facial scan. Verification is usually instant or within minutes.\n\nStep 4: Add International Bank Card\nIn Wallet, tap Bank Cards → Add a Card. Enter: Card Number, Expiry Date, CVV, and Cardholder Name (must match passport exactly — LASTNAME FIRSTNAME in ALL CAPS). Complete 3D Secure / OTP verification.\n\nStep 5: How to Pay\nScan Merchant QR: Tap + → Scan, scan the shop's QR code → enter amount → confirm payment. Show Your QR: Tap Me → Services → Money, show barcode for cashier to scan.\n\nFees & Limits\n≤200 RMB: No fee. >200 RMB: 3% service fee. Red packets / P2P transfer / Top-up: NOT supported with int'l cards.\n\nTroubleshooting\nCard declined: Call your bank to enable int'l transactions. Wallet not visible: Enable in Settings → General → Features. Payment blocked: Contact your bank.\n\nCustomer Support\nWeChat Pay (Mainland China): 95017 (24/7, Chinese/English). WeChat Pay (International): +86 571 95017 (24/7).",
+          "contentZh": "第一步：下载与注册\n从App Store或Google Play下载/更新WeChat至最新版本。点击注册，选择境外手机号，输入号码并填写短信验证码完成注册/登录。\n\n第二步：进入钱包\n点击我（Me）→服务/支付与服务（Services）→钱包（Wallet）。若看不到入口：我→设置→通用→辅助功能，开启「微信支付」。\n\n第三步：实名认证（护照eKYC）\n点击身份信息，选择证件类型为护照。拍摄上传护照个人信息页。完成人脸活体检测。系统自动审核，通常几秒至数分钟。\n\n第四步：添加境外银行卡\n在钱包页面点击银行卡→添加银行卡。输入卡号、有效期、CVV、持卡人姓名（须与护照英文名完全一致，全大写）。填写账单地址。完成3D Secure验证。\n\n第五步：使用支付\n扫码支付：首页点击＋→扫一扫→扫描商家收款码→输入金额→确认。被扫支付：我→服务→收付款，让收银员扫描你的二维码。\n\n费用与限额\n单笔≤200元免手续费；>200元收取3%手续费。红包/转账/充值零钱：外卡不支持。\n\n常见问题\n绑卡失败：联系银行开通境外交易权限。看不到钱包入口：辅助功能手动开启。交易被拒：联系银行解除风控。\n\n客服\n微信支付（中国大陆）：95017（24小时，中英文）。微信支付（海外）：+86 571 95017。"
+        },
+        {
+          "id": "payment-3",
+          "title": "现金使用指南",
+          "titleEn": "Cash Usage Guide",
+          "content": "Core Principle: Cash as a Backup\n\nChina has a highly developed digital payment ecosystem. For foreign tourists, cash is no longer a necessity in major cities. It serves strictly as an emergency backup.\n\nWhen You Actually Need Cash:\n- Remote areas & poor network coverage: In remote rural areas (e.g. parts of Xinjiang or Tibet), weak mobile signals may prevent mobile payments. Some elderly vendors may also prefer cash.\n- Emergencies: Dead phone battery, loss of internet, extreme weather causing base station failures, or temporary payment system outages.\n- Individual vendors & taxis: Rare, but some elderly taxi drivers or street food stall owners may still prefer cash. Note: refusing cash is illegal in China.\n\nPractical Tips:\n- Keep small bills: 10, 20, 50 RMB. Many banks offer pre-packaged small bill sets for tourists.\n- Where to get cash: ATMs at airports, hotels, and bank branches accept international debit/credit cards.\n- Legal protection: All businesses with manual checkout counters must accept cash by law.\n\nConclusion: You do not need large amounts of cash. Around 500-1,000 RMB in small bills is enough as an emergency backup.",
+          "contentZh": "核心原则：现金仅作应急备用\n\n中国拥有高度发达的数字支付生态。对于外国游客，在主要城市现金已不再是必需品，仅作为紧急情况下的备用手段。\n\n真正需要使用现金的场景：\n- 偏远地区与网络不佳区域：在偏远乡村、牧区或山区（如新疆、西藏部分地区），移动信号弱可能无法使用移动支付。当地老年摊贩可能偏好现金。\n- 突发紧急情况：手机没电、欠费停机、极端天气导致基站故障或支付系统临时中断。\n- 部分个体摊贩与出租车：极少数老年司机或摊主可能更习惯收现金。注意：拒收现金在中国属于违法行为。\n\n现金使用贴士：\n- 常备小面额纸币（10元、20元、50元）。许多银行提供零钱包服务。\n- 获取现金：全国各大机场、酒店和银行网点的ATM机可使用国际卡提取人民币。\n- 法律保障：所有设有人工收银台的商户必须接受现金。\n\n总结：无需携带大量现金。约500-1000元小面额零钱作为应急备用即可。"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": "交通出行",
+      "titleEn": "Transportation",
+      "icon": "🚇",
+      "sections": [
+        {
+          "id": "transport-1",
+          "title": "地铁系统",
+          "titleEn": "Taking the Metro",
+          "content": "1. Before You Go\nNavigation Apps: Download Amap (Gaode) or Baidu Maps for route planning. Payment: Use Alipay Transport QR code, WeChat Ride Code, or tap your international contactless bankcard (Visa/MC/AE/JCB/UnionPay) directly at the gate.\n\n2. Entering the Station & Getting a Ticket\nOption A - Tap Your Bankcard (Best): Beijing accepts all five major card schemes at gates. Shanghai, Guangzhou, Chengdu also support foreign card tapping. Option B - QR Code: Use Alipay/WeChat ride code. Option C - Single Ticket: Buy at vending machines (cash/QR) or staffed windows. Option D - Tourist Pass: e.g. Beijing's BEIJING PASS, Chengdu 1-day ¥20, Suzhou 1-day ¥18.\n\n3. Security Check (Mandatory)\nPlace luggage on X-ray belt, walk through gate. Prohibited: firearms, explosives, flammable substances, controlled knives, live animals (except guide dogs).\n\n4. Boarding the Train\nSigns are bilingual (Chinese + English). On-board announcements in both languages. Let passengers exit first. No eating/drinking in most cities. On escalators, stand on the right. Avoid peak hours 7:00-9:00 and 17:00-19:00.\n\n5. Transfers & Exiting\nFollow Transfer signs. Use same method for exit (tap card/scan QR/insert ticket). Single tickets are retained by gate upon exit.\n\n6. Services & Assistance\nBilingual signs standard. Guangzhou: real-time translation devices at key stations. Chengdu: multilingual translators at 400+ stations. Metro hours: ~5:30-23:00.\n\n7. City Comparison\nBeijing: ✅ Tap Visa/MC/AE/JCB/UnionPay + BEIJING PASS. Shanghai: ✅ Tap all major cards + Suishenxing app. Guangzhou: ✅ Tap Visa/MC/AE/JCB. Chengdu: ✅ Supports foreign cards + multilingual translators. Suzhou: ✅ Alipay/WeChat + Su exing app + tourist pass ¥18. Tianjin: ✅ Overseas UnionPay cards.",
+          "contentZh": "一、出行前准备\n导航App：下载高德地图或百度地图规划路线。支付方式：支付宝乘车码、微信乘车码、或直接刷国际银行卡（Visa/MC/AE/JCB/银联）过闸。\n\n二、进站与购票\n方案A—刷银行卡（最推荐）：北京所有闸机支持五大卡组织。上海、广州、成都同样支持境外银行卡刷卡进站。方案B—乘车码：支付宝/微信内开通乘车码扫码进站。方案C—单程票：自动售票机（现金/扫码）或人工窗口购买。方案D—旅游票：北京BEIJING PASS、成都1日¥20、苏州1日¥18。\n\n三、安检（必须）\n行李过X光机，人过安检门。禁止携带：枪支弹药、易燃易爆品、管制刀具、活体动物（导盲犬除外）。\n\n四、乘车\n标识为双语（中英文），车厢内双语报站。先下后上。大部分城市地铁内禁止饮食。扶梯靠右站立。避开早晚高峰7:00-9:00和17:00-19:00。\n\n五、换乘与出站\n跟随「换乘」标识。出站使用与进站相同方式（刷卡/扫码/插票）。单程票出站时闸机回收。\n\n六、服务与帮助\n主要城市均有双语标识。广州：重点车站配备多语种实时翻译设备。成都：400余站点客服中心配备多语言翻译人员。运营时间约5:30-23:00。\n\n七、各城市对比\n北京：✅ 刷Visa/MC/AE/JCB/银联 + BEIJING PASS。上海：✅ 刷各大卡组织 + 随申行/Metro大都会。广州：✅ 刷Visa/MC/AE/JCB。成都：✅ 支持外卡 + 多语言翻译。苏州：✅ 支付宝/微信 + 苏e行 + 旅游票¥18。天津：✅ 境外银联卡刷卡。"
+        },
+        {
+          "id": "transport-2",
+          "title": "滴滴打车",
+          "titleEn": "DiDi Ride-Hailing",
+          "content": "I. Download & Registration\n\n1. Download the App: Search and download \"Didi Chuxing\" (NOT \"DiDi Rider\") from your app store.\n2. Sign Up: Use your international phone number (select country code + enter number, SMS verification). Or passport verification: upload passport info page.\n3. Switch to English: Go to \"Me\" → \"Settings\" → \"General\" → \"Language\" → Select \"English\".\n\nII. Bind Payment Methods\n\n1. Supported: International credit cards (Visa, MasterCard, AmEx) via Alipay linked cards.\n2. Binding Steps: Go to \"Me\" → \"Wallet\" → \"Payment Methods\" → \"Add Card\", enter card number, expiry date, CVV. Auto conversion in RMB at real-time exchange rates.\n\nIII. How to Request a Ride\n\n1. Enter Destination: Accepts English addresses, Pinyin, or Chinese characters (auto-translated for drivers).\n2. Select Vehicle Type: Economy (budget), Comfort (better cars), 6-seater (groups/luggage).\n3. Confirm Order: Check fare estimate and tap \"Confirm\".\n\nIV. During the Trip\n\n1. Real-time Translation: Messages auto-translated between Chinese/English.\n2. Safety Features: Share Trip button, 24/7 English customer service, emergency help.\n3. Payment: Auto-deducted upon arrival. No cash needed.\n\nV. FAQs & Tips\n\n- Use \"Didi Chuxing\" in China, NOT \"DiDi Rider\" (works abroad only).\n- Pre-bind payment to avoid delays.\n- Fares are fixed; drivers cannot change prices. Report detours for refund.\n- Enable GPS; manually adjust pickup if inaccurate.\n- 24/7 English customer service: Me → Customer Service.\n- Special requests: Add notes like \"luggage\" or \"pet\" when booking.",
+          "contentZh": "一、下载与注册\n\n1. 下载App：在应用商店搜索并下载「滴滴出行」（非「DiDi Rider」）。\n2. 注册账户：使用国外手机号注册（输入国家代码和号码，接收验证码）。或通过护照认证上传护照信息页。\n3. 切换语言：进入「我的」→「设置」→「通用」→「语言」→选择「English」。确认后全程界面为英文。\n\n二、绑定支付方式\n\n1. 支持渠道：国际信用卡（Visa、MasterCard、AmEx）、支付宝境外卡。\n2. 绑定步骤：「我的」→「钱包」→「支付方式」→「添加卡片」，输入卡号、有效期、CVV。系统自动换算汇率。\n\n三、叫车步骤\n\n1. 输入目的地：支持英文地址、拼音或中文地址（司机端自动翻译）。\n2. 选择车型：Economy（快车，价格最低）、Comfort（优享，车况更好）、6-seater（6座，适合多人或大件行李）。\n3. 确认订单：核对预估价格后点击确认。\n\n四、行程中操作\n\n1. 实时翻译：App内消息自动中英文互译。\n2. 安全功能：行程分享（分享位置给亲友）、紧急求助（24小时英文客服或警方）。\n3. 支付：到达后自动扣款，无需现金。\n\n五、常见问题\n\n- 中国境内仅用「滴滴出行」，国际版DiDi Rider无法叫车。\n- 提前绑定支付，避免延误。\n- 费用提前显示，司机无法改价，绕路可申诉。\n- 确保GPS开启，定位不准可手动调整上车点。\n- 7×24小时英文客服：我的→客服中心。\n- 特殊需求：下单时备注luggage（行李多）或pet（携带宠物）。"
+        },
+        {
+          "id": "transport-3",
+          "title": "高铁购票指南",
+          "titleEn": "High-Speed Rail Guide",
+          "content": "I. Account Registration & Identity Verification\n\n1. Register: Access 12306 English website (https://www.12306.cn/en) or APP, register with an email address (passport info required).\n2. Passport Verification (Mandatory):\n   - Online: Enter passport details for auto-verification or upload photo for manual check (within 24 hours).\n   - Station counter: Visit with passport (less recommended).\n   - Status must show \"Verified\" or \"Pre-verified\" to book.\n\nII. Booking & Seat Selection\n\n1. Add passengers: Input passport info matching verification.\n2. Search trains: Enter origin/destination/date, filter for G/D trains.\n3. Seat & Payment:\n   - Select preferred seat (A/F window, C/D aisle).\n   - Pay via Visa/Mastercard, Alipay (int'l card), or WeChat Pay.\n4. Waitlist: Submit for sold-out trains, prepay to auto-book refunds/new tickets.\n\nIII. Ticket Collection & Boarding\n\n1. E-tickets only: Show passport at gates for direct entry.\n2. Print ticket needed only for international trains (e.g. China-Laos) or certain small stations.\n3. Arrive 30 mins early. Scan passport, check boarding gate, sit by assigned seat.\n\nIV. Key Notes\n\n- Cancellation/Change: Free refund >8 days before departure, graded fees within 8 days.\n- Child tickets: Free for <6YO (register in advance), 50% discount for 6-14YO.\n- ID: Original Passport or new Foreigner Permanent Resident ID only.\n- HK West Kowloon: Tickets sold at 8:00 daily, modify 45 mins before departure.\n\nV. Contact\n\n- Customer service: 12306 (press for English)\n- Official site: www.12306.cn/en\n\nSince 2023, foreigners can verify ID online without visiting stations.",
+          "contentZh": "一、注册与身份核验\n\n1. 注册账户：访问12306官网（www.12306.cn）或下载铁路12306 APP，使用邮箱注册（外籍用户必须使用英文版，绑定护照信息）。\n2. 护照身份核验（必须完成）：\n   - 在线核验：填写护照信息，系统自动核验或上传护照照片人工审核（24小时内完成）。\n   - 窗口核验：持护照到车站窗口办理（已不推荐）。\n   - 核验状态需显示「已通过」或「预通过」才能购票。\n\n二、购票与选座\n\n1. 添加乘车人：输入护照信息（需与核验一致）。\n2. 查询车次：输入出发地、目的地、日期，勾选高铁/动车筛选。\n3. 选座与支付：支持选座位偏好（A/F靠窗、C/D靠过道）。支付：Visa/Mastercard、支付宝、微信支付。\n4. 候补购票：无票时提交候补订单，预付票款，系统自动兑现退票或新增票额。\n\n三、取票与乘车\n\n1. 电子客票为主：持护照原件直接刷证进站。\n2. 需取票场景：跨境列车（如中老铁路）或部分小车站。\n3. 提前30分钟到站，刷护照进站→核对车次/检票口→对号入座。\n\n四、关键提示\n\n- 退改签：开车前8天以上免费退票，8天内按梯度收费。\n- 儿童票：6岁以下免费（需登记），6-14岁购半价儿童票。\n- 证件要求：仅支持护照原件或新版外国人永久居留身份证。\n- 香港西九龙：车票每日8:00开售，退改签需提前45分钟。\n\n五、联系方式\n\n- 客服电话：12306（英文需转接）\n- 官网：www.12306.cn/en\n\n自2023年起，外籍用户无需提前窗口核验，线上即可完成身份认证。"
+        },
+        {
+          "id": "transport-4",
+          "title": "共享单车（哈啰/美团）",
+          "titleEn": "Bike Sharing (HelloRide/Meituan)",
+          "content": "HelloRide — Best for Foreigners\n\nHelloRide allows registration WITHOUT a Chinese phone number via the Alipay global version.\n\nOption 1: Via Alipay (Recommended):\n1. Download Alipay, switch to English, register with overseas phone, bind Visa/Mastercard.\n2. Open Alipay, tap Scan, scan the HelloRide QR code on the bike.\n3. Passport info auto-loaded for verification.\n4. Park at designated P-point (blue marker on map), lock manually or via app. Fee auto-deducted.\n\nOption 2: HelloRide App (needs Chinese number):\n1. Register with Chinese phone number.\n2. Select Foreign Passport for verification, upload passport photo and selfie holding passport.\n3. Bind international card or Alipay.\n\nCost: ~1 RMB/30min (bicycle), 2 RMB/30min (e-bike). Out-of-area fee: 20 RMB.\n\nMeituan Bike — Complex Process\n\nMeituan requires a Chinese phone number and manual passport review.\n\n1. Get a local Chinese SIM card first.\n2. Download Meituan app, register with Chinese number.\n3. Go to Me > Settings > Real-name Verification > select Manual Review. Upload passport photo and selfie. Wait 1-3 business days.\n4. Bind Visa/Mastercard or Alipay.\n\nCost: ~1.5 RMB/30min (may increase on holidays). Out-of-area fee: 30 RMB.\n\nNote: Verification pages are in Chinese only — prepare a translation tool or ask hotel staff for help.",
+          "contentZh": "哈啰单车 — 最适合外籍用户\n\n哈啰无需中国手机号，通过支付宝国际版即可使用。\n\n方案1：通过支付宝国际版（推荐）：\n1. 下载支付宝，切换英文界面，用境外手机号注册，绑定Visa/Mastercard。\n2. 打开支付宝，点击扫一扫扫描哈啰单车二维码。\n3. 系统自动调用护照信息完成实名认证。\n4. 还车至指定P点（地图蓝色标识），手动锁车或APP结束行程。费用自动扣款。\n\n方案2：哈啰APP（需中国手机号）：\n1. 使用中国手机号注册。\n2. 实名认证选择外国护照，上传护照照片及手持护照自拍。\n3. 绑定国际信用卡或支付宝国际账户。\n\n费用：约1元/30分钟（自行车），2元/30分钟（电单车）。超区调度费20元。\n\n美团单车 — 流程较复杂\n\n美团必须使用中国手机号注册，实名认证需人工审核。\n\n1. 先办理中国本地SIM卡。\n2. 下载美团APP，用中国手机号注册。\n3. 进入我的→设置→实名认证→选择人工审核，上传护照照片及手持护照照片。等待1-3个工作日审核。\n4. 绑定Visa/Mastercard或支付宝。\n\n费用：约1.5元/30分钟，节假日可能加价。超区调度费30元。\n\n注意：认证页面为中文，建议准备翻译工具或请酒店前台协助。"
+        },
+        {
+          "id": "transport-5",
+          "title": "乘机指南",
+          "titleEn": "Flight Guide",
+          "content": "1. Official Background & App Selection\nUmetrip is the official civil aviation travel platform. General Travelers: Download \"Umetrip\" and switch to English. Inbound Foreign Travelers: Download \"HiChina\" App — supports English, French, Japanese, Korean, Spanish.\n\n2. Pre-flight: Account Registration & Info Binding\nBind Passport: Add passenger info, select \"Passport\" as valid ID. Sync Flight: Enter passport number, ticket number, or PNR, then tap \"Sync Order.\" Check-in usually opens 24-48 hours before domestic flights.\n\n3. Online Check-in & Seat Selection\nIdentity Verification: Enter passport/ticket number + phone number for SMS code. 3D Seat Map: Green = available, Red = occupied, Gray = unavailable. Get E-Boarding Pass: Screenshot QR code or add to Apple Wallet.\n\n4. Airport Procedures\nPaperless Transit: Domestic passengers without checked baggage can go through security with E-Boarding Pass + passport. Baggage Drop: Go to counter with passport. Real-time Updates: Check boarding gate changes and baggage carousel in the app.",
+          "contentZh": "一、官方App选择\n航旅纵横（Umetrip）是中国民航官方出行平台。外籍来华旅客推荐下载\"HiChina\"App，支持英、法、日、韩、西5种语言，含航班动态、电子登机牌、英文地图等功能。\n\n二、乘机前：账号注册与信息绑定\n绑定护照：添加出行人时选择护照（Passport）作为证件。同步航班：输入护照号、客票号或订座编号（PNR）手动添加行程，长按选择\"同步订单\"。值机通常在起飞前24-48小时开放。\n\n三、办理值机与选座\n身份校验：输入护照号或客票号，填写购票手机号接收验证码。3D座位图：绿色可选、红色已占、灰色不可用。电子登机牌：选座成功后生成，建议截图保存。\n\n四、机场乘机流程\n无纸化通关：无托运行李的国内航班，凭电子登机牌+护照即可安检和登机。行李托运：前往人工柜台，出示护照办理。实时动态：查看登机口变更及行李转盘信息。"
+        }
+      ]
+    },
+    {
+      "id": "dining",
+      "title": "餐饮与过敏",
+      "titleEn": "Dining & Allergies",
+      "icon": "🍜",
+      "sections": [
+        {
+          "id": "food-1",
+          "title": "看懂中文菜单",
+          "titleEn": "Reading Chinese Menus",
+          "content": "Chinese restaurant menus are usually long. Use your app's Camera Translate feature to photograph menus — it can identify dish names, ingredients, and common allergens. Dishes are meant to be shared family-style. If you have dietary restrictions, show the staff the translated allergy information using the phrasebook.",
+          "contentZh": "中餐菜单通常很长。使用App的拍照翻译功能拍摄菜单——它能识别菜名、食材和常见过敏原。中餐通常是分餐共享的。如有饮食限制，可用 phrasebook 的翻译内容展示给服务员。"
+        },
+        {
+          "id": "food-2",
+          "title": "地方特色",
+          "titleEn": "Regional Specialties",
+          "content": "Beijing: Peking duck, zhajiangmian noodles. Shanghai: xiao long bao soup dumplings, hairy crab. Sichuan: spicy hotpot, mapo tofu. Guangdong: dim sum, congee. Xinjiang: lamb skewers, naan bread. Ask locals or use food review apps like Dianping to find popular spots.",
+          "contentZh": "北京：北京烤鸭、炸酱面。上海：小笼包、大闸蟹。四川：麻辣火锅、麻婆豆腐。广东：点心、粥。新疆：羊肉串、馕。询问当地人或使用大众点评等美食评价App寻找热门餐厅。"
+        },
+        {
+          "id": "food-3",
+          "title": "外卖指南（美团/饿了么）",
+          "titleEn": "Food Delivery (Meituan/Eleme)",
+          "content": "Meituan Food Delivery\n\nI. Account Registration\n- Download Meituan app (yellow logo). Register with international phone number (SMS code).\n- Optional: Log in via WeChat/Alipay (pre-bind foreign card).\n- Real-name verification: Not needed for orders under 500 RMB.\n\nII. Payment Setup\n- Foreign cards only via WeChat Pay or Alipay (Meituan does not support direct card binding).\n- Limits: 5,000 USD single / 50,000 USD annual. Fee: 3% above 200 RMB, free under 200 RMB.\n\nIII. Address & Ordering\n- Bilingual address required (Chinese + English). Include room number and landmarks.\n- Use translation tools to browse menus; prioritize restaurants with photo menus.\n- Add bilingual delivery notes (e.g. \"No call, leave at front desk\").\n\nIV. Issues\n- No English app interface. Use WeChat/Alipay English support (+86 571 95188).\n- Ensure card has cross-border enabled. Check 3D Secure.\n- Track rider location in-app.\n\nEleme Food Delivery\n\nI. Account Registration\n- Download Eleme app (blue logo). Supports international phone numbers.\n- Same verification rules as Meituan.\n\nII. Payment Setup\n- Foreign cards only via WeChat Pay or Alipay. Same limits and fees.\n\nIII. Address & Ordering\n- Bilingual address required. Include room number + landmarks.\n- Use photo menus + translation tools. Add bilingual delivery notes.\n- Prioritize stores with On-Time Guarantee tag.\n\nIV. Issues\n- Eleme direct line: 1010-5757 (Chinese only). Alipay English: +86 571 95188.\n- Overseas Wallets in China (13 countries supported, e.g. GrabPay).\n\nKey Tips:\n- Neither platform has English interface. Translation tools essential.\n- No cash on delivery.\n- For urgent issues, contact WeChat/Alipay English support first.",
+          "contentZh": "美团外卖\n\n一、注册流程\n- 下载美团APP（黄色Logo）。使用国际手机号注册（短信验证码）。\n- 可选微信/支付宝快捷登录（需提前绑定境外卡）。\n- 实名认证：单笔≤500元无需认证。\n\n二、支付设置\n- 境外卡仅通过微信支付或支付宝绑定（美团不支持直接绑卡）。\n- 限额：单笔5000美元，年累计5万美元。手续费：≤200元免，>200元收3%。\n\n三、地址填写与下单\n- 中英双语地址（含房间号、地标备注）。\n- 用翻译工具辅助选菜，优先图片菜单。\n- 备注中文+英文特殊要求。\n\n四、常见问题\n- 无英文界面，需翻译工具。微信/支付宝英文客服：+86 571 95188。\n- 确认银行卡开通跨境交易，完成3DS验证。\n- 实时跟踪骑手位置。\n\n饿了么\n\n一、注册流程\n- 下载饿了么APP（蓝色Logo）。支持国际手机号注册。\n- 认证规则同美团。\n\n二、支付设置\n- 仅通过微信或支付宝绑定境外卡，限额和手续费同美团。\n\n三、地址与下单\n- 中英双语地址（含房间号）。\n- 图片菜单+翻译工具辅助。优先选择「准时达」标签商家。\n\n四、常见问题\n- 饿了么客服1010-5757（中文）。支付宝英文：+86 571 95188。\n- 支持13国钱包外包内用（如新加坡GrabPay）。\n\n核心提示：\n- 两大平台均无英文界面，必须用翻译工具。\n- 不支持现金支付。\n- 有问题优先找微信/支付宝英文客服，解决速度最快。"
+        },
+        {
+          "id": "food-4",
+          "title": "饮水注意",
+          "titleEn": "Drinking Water",
+          "content": "Tap water in China is NOT safe to drink. Buy bottled water at convenience stores (¥2-3 per 500ml), or use your hotel's electric kettle to boil tap water. Restaurants will serve hot tea or hot water by default; ask for 'ice water' or cold beverages if preferred.",
+          "contentZh": "中国自来水不可直接饮用。可在便利店购买瓶装水（500ml约2-3元），或使用酒店电热水壶烧开自来水。餐厅默认提供热茶或热水，如需冷饮请说「冰水」。"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "语言与标识",
+      "titleEn": "Language & Signs",
+      "icon": "🔰",
+      "sections": [
+        {
+          "id": "language-1",
+          "title": "常用中文短语",
+          "titleEn": "Common Chinese Phrases",
+          "content": "Ni hao (Hello) — universal greeting. Xie xie (Thank you) — always appreciated. Bu yao la (No spicy, please) — useful at Sichuan restaurants. Mei you (Don't have / Not available) — often heard. Duo shao qian? (How much?) — standard price question. Pian yi dian? (Cheaper?) — can be used for light bargaining in markets.",
+          "contentZh": "你好（Hello）——通用问候语。谢谢（Thank you）——常挂嘴边。不要辣（No spicy, please）——在川菜馆特别有用。没有（Don't have / Not available）——常能听到。多少钱？（How much?）——标准问价。便宜点？（Cheaper?）——市场上可用于温和讨价还价。"
+        },
+        {
+          "id": "language-2",
+          "title": "识别常见标识",
+          "titleEn": "Recognizing Common Signs",
+          "content": "Exit signs in subways and buildings: 出口 (Chu kou). Entrance: 入口 (Ru kou). Men's room: 男 (Nan). Women's room: 女 (Nü). No smoking: 禁止吸烟. Police station: 派出所 or 公安局. Hospital: 医院. You can use your camera translate feature to photograph signs in real time.",
+          "contentZh": "地铁和建筑物的出口标识：出口（Chu kou）。入口：入口（Ru kou）。男厕：男（Nan）。女厕：女（Nü）。禁止吸烟：禁止吸烟。警察局：派出所或公安局。医院：医院。可使用拍照翻译功能实时拍摄识别各类标识。"
+        },
+        {
+          "id": "language-3",
+          "title": "数字与讨价",
+          "titleEn": "Numbers & Bargaining",
+          "content": "Learn Chinese numbers 1-10: yi, er, san, si, wu, liu, qi, ba, jiu, shi. Street markets expect some bargaining — ask for a discount politely. Fixed-price shops (malls, chain stores) usually don't bargain. A friendly smile and patience often work better than aggressive haggling.",
+          "contentZh": "学习中文数字1-10：一、二、三、四、五、六、七、八、九、十。街边市场通常可以讨价——礼貌询问折扣即可。商场、连锁店等明码标价的店铺通常不议价。友好的微笑和耐心比强势砍价更有效。"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "title": "安全与健康",
+      "titleEn": "Safety & Health",
+      "icon": "🛡️",
+      "sections": [
+        {
+          "id": "safety-1",
+          "title": "紧急求助",
+          "titleEn": "Emergency Assistance",
+          "content": "Police: 110. Ambulance: 120. Fire: 119. Traffic accidents: 122. For consular matters, contact your embassy directly. Keep a digital copy of your passport photo page separate from the physical document — upload to cloud storage or email to yourself. Most operators in big cities can transfer you to English-speaking dispatchers.",
+          "contentZh": "报警：110。急救：120。火警：119。交通事故：122。领事事务请直接联系本国驻华使馆。保存护照个人信息页的电子版——上传云盘或发邮件给自己备用。大城市的接线员大多可以转接英文服务。"
+        },
+        {
+          "id": "safety-2",
+          "title": "药店与药品",
+          "titleEn": "Pharmacies & Medicine",
+          "content": "In major cities, international or foreign-friendly hospitals are available (search for 'international hospital' or '涉外医院'). They accept international insurance and have English-speaking staff. For minor issues, pharmacies (marked with a green cross) sell common OTC medicines. Prescription drugs require a doctor's note.",
+          "contentZh": "大城市都有国际医院或外籍友好医院（搜索「international hospital」或「涉外医院」）。它们接受国际保险并配备英文服务人员。小问题可以去药店——绿色十字标识，售卖常见非处方药。处方药需有医生开具的处方。"
+        },
+        {
+          "id": "safety-3",
+          "title": "街头安全与骗局",
+          "titleEn": "Street Safety & Scams",
+          "content": "China is generally safe for tourists. Common precautions: use hotel safes for valuables, don't walk alone on unlit side streets late at night, and be wary of overly friendly strangers offering free tours or inviting you to tea houses — these are common scams in Beijing and Shanghai.",
+          "contentZh": "中国对游客总体安全。常规注意事项：贵重物品放酒店保险箱；深夜不要独走偏僻无光的小巷；警惕过于热情的陌生人主动邀请免费游览或去茶馆——这是北京和上海常见的骗局。"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "当地风俗",
+      "titleEn": "Local Customs",
+      "icon": "🏮",
+      "sections": [
+        {
+          "id": "culture-1",
+          "title": "餐桌礼仪",
+          "titleEn": "Table Manners",
+          "content": "Chopsticks should not be stuck vertically in rice (funeral symbolism). Don't tap your bowl with chopsticks — it resembles begging. Tea or hot water will be poured for you; tap the table with two fingers to silently thank the pourer. Lazy Susan (rotating center table): take food from the portion closest to you, don't reach across.",
+          "contentZh": "筷子不可竖直插在米饭中（与丧葬相关）。不要用筷子敲碗——类似乞讨。服务员或主人会为您倒茶或热水；用两根手指轻敲桌面以表示无声感谢。圆桌转盘（Lazy Susan）：从靠近自己的一侧取菜，别隔着老远伸手。"
+        },
+        {
+          "id": "culture-2",
+          "title": "小费",
+          "titleEn": "Tipping",
+          "content": "Tipping is not expected in China. Restaurants add a service charge automatically on the bill when applicable. Hotels, porters, and tour guides generally don't expect tips either — though rounding up or giving a small token is appreciated for excellent service.",
+          "contentZh": "中国没有付小费的习惯。如有服务费，餐厅会直接计入账单。酒店、行李员和导游一般也不期待小费——但如果服务特别好，四舍五入或给一点小意思会被感激。"
+        },
+        {
+          "id": "culture-3",
+          "title": "拍照礼仪",
+          "titleEn": "Photography Etiquette",
+          "content": "Ask permission before photographing people, especially monks, ethnic minorities in traditional attire, and children. Some temples, museums, and historical sites prohibit photography — look for signs with a camera crossed out. Government buildings and military installations should not be photographed.",
+          "contentZh": "给他人拍照前请征得同意，尤其是僧侣、着传统服饰的少数民族和儿童。部分寺庙、博物馆和历史遗迹禁止拍照——注意寻找画有相机打叉的标识。政府大楼和军事设施一律不可拍摄。"
+        }
+      ]
+    },
+    {
+      "id": "accommodation",
+      "title": "住宿",
+      "titleEn": "Accommodation",
+      "icon": "🏨",
+      "sections": [
+        {
+          "id": "accommodation-1",
+          "title": "酒店入住",
+          "titleEn": "Hotel Check-in",
+          "content": "Hotels require your passport at check-in to register you with the local police station — this is automatic and takes only a few minutes. Confirm in advance that the hotel accepts foreign guests (most chain hotels do). Keep your room card safe; you'll need to show it at the front desk when requesting new cards if lost.",
+          "contentZh": "酒店入住时需出示护照以便向当地公安机关登记——这是自动流程，只需几分钟。请提前确认酒店接待外宾（大多数连锁酒店都可以）。妥善保管房卡；如遗失需到前台申请补办时重新出示。"
+        },
+        {
+          "id": "accommodation-2",
+          "title": "预订平台",
+          "titleEn": "Booking Platforms",
+          "content": "Use Trip.com, Booking.com, or Agoda for English-language bookings. Budget travelers can try 7 Days Inn, Home Inn, and Hanting chains for clean, basic rooms starting from ¥150/night. Mid-range options: Ibis, Holiday Inn, Citadines. Luxury options abound in downtown areas of major cities.",
+          "contentZh": "用Trip.com、Booking.com或Agoda可进行英文预订。预算有限可试7天连锁、如家、汉庭——干净基本的房间，起价约150元/晚。中端推荐：宜必思、假日酒店、馨乐庭。主要城市市中心不乏豪华选择。"
+        },
+        {
+          "id": "accommodation-3",
+          "title": "短租民宿（Airbnb等）",
+          "titleEn": "Short-term Rentals (Airbnb etc.)",
+          "content": "Airbnb and local platforms like Tujia offer apartment rentals. However, some cities require hosts to register foreign guests with police — check reviews for foreign-friendly hosts. Renting an apartment with a kitchen can significantly reduce food costs if you're traveling long-term.",
+          "contentZh": "Airbnb及途家等国内平台提供公寓短租。但部分城市要求房东向公安登记境外客人——请留意房东评价是否有接待外国人的经验。长期旅行时，租住带厨房的公寓能大幅降低餐饮成本。"
+        }
+      ]
+    },
+    {
+      "id": "attractions",
+      "title": "景区购票",
+      "titleEn": "Ticket Booking",
+      "icon": "🎫",
+      "sections": [
+        {
+          "id": "attractions-1",
+          "title": "购票方式",
+          "titleEn": "How to Buy Tickets",
+          "content": "Most major Chinese scenic spots require advance online booking. The most common platforms: Trip.com (English, accepts int'l cards), Meituan (Chinese, needs Alipay/WeChat Pay), or the attraction's official WeChat mini-program. Book 1-7 days ahead for popular sites like the Forbidden City or Terracotta Warriors. Walk-up ticket windows may not be available — always book online first.",
+          "contentZh": "中国大部分热门景区需要提前在线预约。常用平台：Trip.com（英文界面、接受国际信用卡）、美团（中文、需支付宝或微信支付）、或在景区官方微信小程序购票。故宫、兵马俑等热门景点建议提前1-7天预约。现场售票窗口可能不开放——务必先在线购票。"
+        },
+        {
+          "id": "attractions-2",
+          "title": "支付方式",
+          "titleEn": "Payment Methods",
+          "content": "Online ticket platforms accept: International credit cards (Visa/Mastercard on Trip.com), Alipay, WeChat Pay. If you only have a foreign card, use Trip.com or携程 (Trip.com Group) which is fully English-friendly. Some official WeChat mini-programs may require WeChat Pay — set up your WeChat Pay with a foreign card before attempting to buy tickets.",
+          "contentZh": "在线购票平台支持：国际信用卡（Trip.com支持Visa/Mastercard）、支付宝、微信支付。如果只有外国信用卡，使用Trip.com（全英文界面，接受国际卡）。部分官方微信小程序可能只支持微信支付——建议提前绑定外国信用卡到微信支付。"
+        },
+        {
+          "id": "attractions-3",
+          "title": "扫码入场",
+          "titleEn": "Scan to Enter",
+          "content": "Once purchased, you'll receive a QR code or barcode by email or in-app. At the attraction entrance: find the turnstile with a scanner, show the QR code on your phone. No need to print anything. Some sites require passport matching — bring your passport. For time-slot tickets (e.g. Forbidden City), arrive within your booked window or you may be denied entry.",
+          "contentZh": "购票后你会通过邮件或App收到二维码或条形码。到达景区入口：找到扫码闸机，出示手机上的二维码即可入场，无需打印纸质票。部分景点要求核对护照信息——请随身携带护照。预约时段票（如故宫）请在预约时段内入场，超时可能被拒绝进入。"
+        },
+        {
+          "id": "attractions-4",
+          "title": "取消与退款",
+          "titleEn": "Cancellation & Refunds",
+          "content": "Most ticketing platforms allow free cancellation 24 hours before the visit, but policies vary. On Trip.com, cancellation rules are clearly shown before purchase. Some promotional or holiday tickets may be non-refundable. If you can't get a refund, transfer the ticket to another person — most sites allow name changes for free before the visit date.",
+          "contentZh": "大多数购票平台支持游览前24小时免费取消，但各平台政策不同。在Trip.com上，购票前会明确显示取消规则。部分促销票或假日票可能不可退款。如无法退款，可将门票转让给他人——大部分平台允许在游览日期前免费更改使用人信息。"
+        }
+      ]
+    }
+  ],
+  "priceData": {
+    "categories": [
+      {
+        "category": "Transportation",
+        "categoryEn": "Transportation",
+        "items": [
+          {
+            "name": "Subway/Bus",
+            "nameEn": "Subway/Bus",
+            "price": "¥2-10",
+            "priceEn": "¥2-10",
+            "description": "City public transport",
+            "descriptionEn": "City public transport"
+          },
+          {
+            "name": "Taxi Start",
+            "nameEn": "Taxi Start",
+            "price": "¥10-14",
+            "priceEn": "¥10-14",
+            "description": "Within 3 km",
+            "descriptionEn": "Within 3 km"
+          },
+          {
+            "name": "Ride-hailing",
+            "nameEn": "Ride-hailing",
+            "price": "¥15-30",
+            "priceEn": "¥15-30",
+            "description": "City short trip",
+            "descriptionEn": "City short trip"
+          },
+          {
+            "name": "Bike Share",
+            "nameEn": "Bike Share",
+            "price": "¥1-3/hour",
+            "priceEn": "¥1-3/hour",
+            "description": "Requires Chinese phone registration",
+            "descriptionEn": "Requires Chinese phone registration"
+          }
+        ],
+        "remark": null,
+        "remarkEn": null
+      },
+      {
+        "category": "Food & Drink",
+        "categoryEn": "Food & Drink",
+        "items": [
+          {
+            "name": "Local Eats",
+            "nameEn": "Local Eats",
+            "price": "¥30-80/person",
+            "priceEn": "¥30-80/person",
+            "description": "Chinese casual dining",
+            "descriptionEn": "Chinese casual dining"
+          },
+          {
+            "name": "Mid-range",
+            "nameEn": "Mid-range",
+            "price": "¥80-150/person",
+            "priceEn": "¥80-150/person",
+            "description": "Table service restaurants",
+            "descriptionEn": "Table service restaurants"
+          },
+          {
+            "name": "Street Food",
+            "nameEn": "Street Food",
+            "price": "¥5-20",
+            "priceEn": "¥5-20",
+            "description": "Snacks, pancakes, etc.",
+            "descriptionEn": "Snacks, pancakes, etc."
+          },
+          {
+            "name": "Bottled Water",
+            "nameEn": "Bottled Water",
+            "price": "¥2-5",
+            "priceEn": "¥2-5",
+            "description": "500ml bottle",
+            "descriptionEn": "500ml bottle"
+          }
+        ],
+        "remark": null,
+        "remarkEn": null
+      },
+      {
+        "category": "Accommodation",
+        "categoryEn": "Accommodation",
+        "items": [
+          {
+            "name": "Budget Hotel",
+            "nameEn": "Budget Hotel",
+            "price": "¥150-300/night",
+            "priceEn": "¥150-300/night",
+            "description": "Chain hotels like Home Inn",
+            "descriptionEn": "Chain hotels like Home Inn"
+          },
+          {
+            "name": "Mid-range",
+            "nameEn": "Mid-range",
+            "price": "¥300-600/night",
+            "priceEn": "¥300-600/night",
+            "description": "3-4 star standard",
+            "descriptionEn": "3-4 star standard"
+          }
+        ],
+        "remark": null,
+        "remarkEn": null
+      },
+      {
+        "category": "Attractions",
+        "categoryEn": "Attractions",
+        "items": [
+          {
+            "name": "Forbidden City",
+            "nameEn": "Forbidden City",
+            "price": "¥60",
+            "priceEn": "¥60",
+            "description": "Peak season",
+            "descriptionEn": "Peak season"
+          },
+          {
+            "name": "Great Wall",
+            "nameEn": "Great Wall",
+            "price": "¥40",
+            "priceEn": "¥40",
+            "description": "Badaling, peak season",
+            "descriptionEn": "Badaling, peak season"
+          },
+          {
+            "name": "West Lake",
+            "nameEn": "West Lake",
+            "price": "Free",
+            "priceEn": "Free",
+            "description": "Core scenic area",
+            "descriptionEn": "Core scenic area"
+          }
+        ],
+        "remark": null,
+        "remarkEn": null
+      },
+      {
+        "category": "Shopping",
+        "categoryEn": "Shopping",
+        "items": [
+          {
+            "name": "Supermarket",
+            "nameEn": "Supermarket",
+            "price": "¥50-200",
+            "priceEn": "¥50-200",
+            "description": "Daily necessities",
+            "descriptionEn": "Daily necessities"
+          }
+        ],
+        "remark": null,
+        "remarkEn": null
+      }
+    ],
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "美元",
+        "nameEn": "US Dollar",
+        "rateToCNY": 7.15,
+        "isUpdated": false
+      },
+      {
+        "code": "HKD",
+        "name": "港币",
+        "nameEn": "Hong Kong Dollar",
+        "rateToCNY": 0.91,
+        "isUpdated": false
+      },
+      {
+        "code": "MOP",
+        "name": "澳门元",
+        "nameEn": "Macau Pataca",
+        "rateToCNY": 0.9,
+        "isUpdated": false
+      },
+      {
+        "code": "KRW",
+        "name": "韩元",
+        "nameEn": "Korean Won",
+        "rateToCNY": 0.0053,
+        "isUpdated": false
+      },
+      {
+        "code": "JPY",
+        "name": "日元",
+        "nameEn": "Japanese Yen",
+        "rateToCNY": 0.048,
+        "isUpdated": false
+      },
+      {
+        "code": "TWD",
+        "name": "新台币",
+        "nameEn": "New Taiwan Dollar",
+        "rateToCNY": 0.22,
+        "isUpdated": false
+      },
+      {
+        "code": "THB",
+        "name": "泰铢",
+        "nameEn": "Thai Baht",
+        "rateToCNY": 0.2,
+        "isUpdated": false
+      },
+      {
+        "code": "SGD",
+        "name": "新加坡元",
+        "nameEn": "Singapore Dollar",
+        "rateToCNY": 5.3,
+        "isUpdated": false
+      },
+      {
+        "code": "MYR",
+        "name": "马来西亚林吉特",
+        "nameEn": "Malaysian Ringgit",
+        "rateToCNY": 1.52,
+        "isUpdated": false
+      },
+      {
+        "code": "IDR",
+        "name": "印尼盾",
+        "nameEn": "Indonesian Rupiah",
+        "rateToCNY": 0.00045,
+        "isUpdated": false
+      },
+      {
+        "code": "VND",
+        "name": "越南盾",
+        "nameEn": "Vietnamese Dong",
+        "rateToCNY": 0.0003,
+        "isUpdated": false
+      },
+      {
+        "code": "EUR",
+        "name": "欧元",
+        "nameEn": "Euro",
+        "rateToCNY": 7.65,
+        "isUpdated": false
+      },
+      {
+        "code": "GBP",
+        "name": "英镑",
+        "nameEn": "British Pound",
+        "rateToCNY": 8.9,
+        "isUpdated": false
+      },
+      {
+        "code": "CNY",
+        "name": "人民币",
+        "nameEn": "Chinese Yuan",
+        "rateToCNY": 1.0,
+        "isUpdated": false
+      }
+    ]
+  },
+  "emergencyContacts": [
+    {
+      "id": "1",
+      "name": "报警",
+      "nameEn": "Police",
+      "number": "110",
+      "description": "紧急报警电话",
+      "descriptionEn": "Police emergency",
+      "type": "emergency"
+    },
+    {
+      "id": "2",
+      "name": "急救",
+      "nameEn": "Ambulance",
+      "number": "120",
+      "description": "医疗紧急电话",
+      "descriptionEn": "Medical emergency",
+      "type": "emergency"
+    },
+    {
+      "id": "3",
+      "name": "火警",
+      "nameEn": "Fire",
+      "number": "119",
+      "description": "火灾报警电话",
+      "descriptionEn": "Fire emergency",
+      "type": "emergency"
+    },
+    {
+      "id": "4",
+      "name": "交通事故",
+      "nameEn": "Traffic Accident",
+      "number": "122",
+      "description": "交通事故报警",
+      "descriptionEn": "Traffic accident",
+      "type": "emergency"
+    },
+    {
+      "id": "5",
+      "name": "中国外交部领事保护热线",
+      "nameEn": "Consular Protection Hotline",
+      "number": "+86-10-12308",
+      "description": "24小时领事保护热线",
+      "descriptionEn": "24-hour consular protection",
+      "type": "embassy"
+    },
+    {
+      "id": "6",
+      "name": "旅游投诉",
+      "nameEn": "Tourism Complaint",
+      "number": "12301",
+      "description": "全国旅游服务热线",
+      "descriptionEn": "National tourism service",
+      "type": "service"
+    },
+    {
+      "id": "7",
+      "name": "消费者投诉",
+      "nameEn": "Consumer Complaint",
+      "number": "12315",
+      "description": "消费者权益保护",
+      "descriptionEn": "Consumer rights protection",
+      "type": "service"
+    },
+    {
+      "id": "8",
+      "name": "天气预报",
+      "nameEn": "Weather Forecast",
+      "number": "12121",
+      "description": "气象信息查询",
+      "descriptionEn": "Weather information",
+      "type": "service"
+    }
+  ]
+}
