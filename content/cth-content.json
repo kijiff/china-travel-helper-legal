@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-06-26",
+  "version": 2,
+  "updated": "2026-06-29",
   "guideChapters": [
     {
       "id": "arrival",
@@ -10,20 +10,183 @@
       "sections": [
         {
           "id": "arrival-1",
-          "title": "办理本地电话卡",
-          "titleEn": "Getting a Local SIM Card",
-          "content": "Welcome to China! In China, a smartphone paired with a local SIM card is the master key to experiencing a highly digital lifestyle. While a local phone number is not strictly required for basic payments via Alipay, getting a local SIM card is essential for you to independently and smoothly enjoy your stay.\n\nWhy Do You Need a Local Chinese Phone Number?\n\nIn China, a phone number is more than just a communication tool; it is your passport to various digital services. Having a local number will unlock the following conveniences:\n\n- Transportation & Ride-Hailing: Local numbers are required to register and receive trip notifications on apps like Didi, as well as for navigation apps like Amap and Baidu Maps.\n- Attractions & Ticketing: Most scenic spots have resumed offline ticket sales. However, a few top-tier attractions (such as the Forbidden City and the National Museum in Beijing) still require online real-name reservations, which need a local Chinese number for verification codes.\n- Train Tickets: Using platforms like 12306 to buy train tickets is much smoother with a local number, ensuring you receive identity verification and trip updates.\n- Daily Services: QR code ordering at restaurants, food delivery platforms, and bike-sharing generally require a local phone number for registration.\n- Account Security & Limits: Binding a local Chinese phone number to Alipay or WeChat helps improve your account security and unlocks higher transaction limits.\n\neSIM Notice (2026):\n\nIf you use an eSIM-only phone (such as global iPhone Air, or US iPhone 17 series): As of 2026, mainland China eSIM is still in commercial trial. It only supports specific phones sold in mainland China. All overseas devices cannot install eSIM profiles for mainland China carriers.\n\nAlternatives if your phone lacks a physical SIM slot:\n- Bring a backup phone that supports physical SIM cards.\n- Rent or buy a portable WiFi device at Chinese airports.\n- Use an overseas travel eSIM data plan (e.g. Airalo) for basic connectivity, but you won't get a local number.\n\nPre-Departure: Check Your Device\n\nEnsure your phone is network-unlocked. If locked, contact your carrier before leaving. Also verify your phone supports Chinese 5G or VoLTE standards.\n\nOffline Registration: Bring Your Passport, Get It Instantly\n\nRequired Documents: Your original passport (or Foreign Permanent Resident ID Card).\n\nChoose a Carrier:\n- China Mobile: 10086\n- China Unicom: 10010\n- China Telecom: 10000\n- China Broadnet: 10099\n\nVisit a flagship business hall at the airport, city center, or major train station. These locations usually have English-speaking staff. Real-name registration by law requires you in person. Max 5 SIMs per carrier per person.\n\nChoose a Plan: Ask about Short-Term Travel SIM Packages (7, 15, or 30-day data plans). These are much cheaper than international roaming and auto-expire.\n\nPost-Activation Setup: Top-Up & Essential Apps\n\nTop up via the carrier app using Alipay/WeChat, or at the business hall. Download essential apps: Alipay, WeChat, Amap, Baidu Maps, Didi.\n\nPayment Binding Tip: Alipay/WeChat support Visa/Mastercard. ≤200 RMB: fee-free. >200 RMB: 3% service fee. Annual limit: $50,000.\n\nTrain Ticket Tip: 12306 offers an English website and app. Foreign travelers can book with passport, paying by int'l card or mobile payment.",
-          "contentZh": "欢迎来到中国！在中国，一部智能手机配合本地电话卡，是体验高度数字化生活的万能钥匙。虽然仅使用支付宝进行基础支付并不强制要求本地手机号，但为了让您能够完全独立、顺畅地享受在华生活，办理一张本地SIM卡至关重要。\n\n为什么需要中国本地手机号？\n\n在中国，手机号不仅仅是通讯工具，更是各类数字服务的通行证。拥有本地号码，您将解锁以下便利：\n\n- 出行与打车：使用滴滴等网约车App，或查询高德地图、百度地图时，本地号码是注册和接收行程通知的必备条件。\n- 景点与票务：中国大多数景区已恢复线下售票。但少数顶级热门景区（如北京故宫、国家博物馆等）仍实行全网实名分时预约，必须通过App或小程序操作，通常需要中国手机号接收验证码。\n- 交通购票：使用12306购买火车票时，本地号码能确保您顺利通过身份核验并接收行程变动通知。\n- 生活服务：扫码点餐、外卖平台、共享单车等日常服务，普遍要求使用本地手机号注册和验证。\n- 账号安全与额度：将支付宝或微信绑定中国本地手机号，有助于提升账号安全等级，解锁更高交易额度。\n\neSIM说明（2026年）：\n\n如果您使用仅支持eSIM的手机（如iPhone Air全球版、美国版iPhone 17系列等）：截至2026年，中国大陆eSIM仍处于商用试验阶段，仅支持国行特定机型。所有海外版设备均无法安装中国大陆运营商的eSIM。\n\n替代方案：\n- 携带一部支持实体SIM卡的备用手机。\n- 在中国机场租赁或购买便携式移动WiFi设备。\n- 使用境外旅行eSIM数据卡（如Airalo）保持基础网络连接，但此方式无法获得中国本地手机号。\n\n出发前：检查手机设备\n\n确认手机为网络解锁状态。如果手机被锁定，请提前联系本国运营商解锁。同时确认手机支持中国5G或VoLTE网络制式。\n\n线下办理：本人持证，即办即取\n\n必备证件：护照原件（或外国人永久居留身份证）。\n\n选择运营商：\n- 中国移动：10086\n- 中国联通：10010\n- 中国电信：10000\n- 中国广电：10099\n\n前往机场、市中心或大型火车站的旗舰营业厅。这些网点通常有外语能力的工作人员。根据中国法律要求，必须本人携带证件前往办理。同一用户同一运营商最多办理5张。\n\n选择套餐：推荐短期旅行通信卡套餐（7天、15天或30天流量包），资费远低于国际漫游，到期自动注销。\n\n入网后设置：激活与充值\n\n通过运营商官方App使用支付宝/微信充值，或在营业厅柜台支付。下载必备应用：支付宝、微信、高德地图、百度地图、滴滴出行。\n\n绑卡提示：支付宝和微信支持绑定Visa/Mastercard等国际银行卡。单笔≤200元免手续费，>200元收3%服务费。年累计限额5万美元。\n\n火车票提示：12306提供英文版网站和App，外国旅客可直接使用护照在线购票，支持境内外银行卡及移动支付。"
+          "title": "SIM卡与eSIM",
+          "titleEn": "SIM Card & eSIM",
+          "content": "You need a local SIM card for Didi, Baidu Maps, food delivery, bike-sharing, and 12306 train tickets. eSIM: mainland China still in trial — overseas devices unsupported. Bring a backup phone or use portable WiFi. Get a SIM at airport/city carrier stores with your passport. Choose a short-term plan (7/15/30 days). Top up via Alipay/WeChat. 12306: www.12306.cn/en for train tickets with passport.",
+          "contentZh": "出行、外卖、共享单车、景点预约、12306购票都需要中国本地SIM卡。eSIM仅支持国行设备。备用手机或机场WiFi是替代。持护照在机场/市内营业厅办理，选短期套餐（7/15/30天）。用支付宝/微信充值。12306: www.12306.cn 可用护照购票。",
+          "blocksEn": [
+            {
+              "type": "heading",
+              "text": "Why Do You Need a Local Chinese Phone Number?"
+            },
+            {
+              "type": "text",
+              "text": "In China, a phone number is your passport to digital services. Having a local number unlocks the following:"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "Transportation & Ride-Hailing: Required for Didi, Amap, Baidu Maps registration and notifications",
+                "Attractions & Ticketing: Top attractions (Forbidden City, National Museum) require online reservations with SMS verification",
+                "Train Tickets: Smoother 12306 identity verification and trip updates",
+                "Daily Services: QR code ordering, food delivery, bike-sharing all use local numbers",
+                "Account Security: Binding a local number to Alipay/WeChat improves security and raises limits"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "eSIM Notice (2026)"
+            },
+            {
+              "type": "text",
+              "text": "Mainland China eSIM is still in commercial trial. Only specific phones sold in mainland China support it. All overseas devices CANNOT install eSIM for mainland carriers."
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "Bring a backup phone with physical SIM slot",
+                "Rent/buy portable WiFi at Chinese airports",
+                "Use overseas travel eSIM (e.g. Airalo) for basic connectivity — but no local number"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Before You Travel"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "Confirm phone is unlocked — contact carrier if locked",
+                "Confirm 5G/VoLTE band support"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Getting a SIM Card — In Person"
+            },
+            {
+              "type": "text",
+              "text": "Bring your passport. Go to a flagship carrier store at the airport, downtown, or major train station."
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "China Mobile (10086)",
+                "China Unicom (10010)",
+                "China Telecom (10000)",
+                "China Broadnet (10099)"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Choose a short-term plan (7/15/30 days). Much cheaper than roaming. Expires automatically. Max 5 SIM cards per carrier per person."
+            },
+            {
+              "type": "heading",
+              "text": "After Setup"
+            },
+            {
+              "type": "text",
+              "text": "Recharge via carrier app (Alipay/WeChat) or at store counters. Download essential apps: Alipay, WeChat, Amap, Baidu Maps, DiDi."
+            },
+            {
+              "type": "link",
+              "text": "12306 Train Tickets",
+              "url": "https://www.12306.cn/en"
+            },
+            {
+              "type": "text",
+              "text": "12306 offers English website and app. Foreign travelers can use passports for online booking, supporting international cards and mobile payments."
+            }
+          ],
+          "blocksZh": [
+            {
+              "type": "heading",
+              "text": "为什么需要中国本地手机号？"
+            },
+            {
+              "type": "text",
+              "text": "在中国，手机号是各类数字服务的通行证。拥有本地号码，您将解锁以下便利："
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "出行与打车：滴滴、高德地图、百度地图注册和通知必备",
+                "景点与票务：故宫、国博等顶级景区需网上实名预约，需中国手机号收验证码",
+                "交通购票：12306购票身份核验和行程通知更顺畅",
+                "生活服务：扫码点餐、外卖、共享单车普遍需本地号注册",
+                "账号安全与额度：绑定支付宝/微信提升安全等级和交易限额"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "eSIM说明（2026年）"
+            },
+            {
+              "type": "text",
+              "text": "中国大陆eSIM仍处于商用试验阶段，仅支持国行特定机型。所有海外版设备均无法安装中国大陆运营商的eSIM。"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "携带一部支持实体SIM卡的备用手机",
+                "在中国机场租赁或购买便携式移动WiFi",
+                "使用境外旅行eSIM（如Airalo）保持网络——但无法获得本地号码"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "出发前检查"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "确认手机为网络解锁状态，锁定请联系运营商",
+                "确认支持中国5G/VoLTE网络制式"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "线下办理"
+            },
+            {
+              "type": "text",
+              "text": "必备证件：护照原件（或外国人永久居留身份证）。前往机场、市中心或大型火车站的旗舰营业厅。"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "中国移动：10086",
+                "中国联通：10010",
+                "中国电信：10000",
+                "中国广电：10099"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "推荐短期旅行通信卡套餐（7/15/30天流量包），资费远低于国际漫游，到期自动注销。同用户同运营商最多5张。"
+            },
+            {
+              "type": "heading",
+              "text": "入网后设置"
+            },
+            {
+              "type": "text",
+              "text": "通过运营商App使用支付宝/微信充值。下载必备应用：支付宝、微信、高德地图、百度地图、滴滴出行。"
+            },
+            {
+              "type": "link",
+              "text": "12306火车票官网",
+              "url": "https://www.12306.cn"
+            },
+            {
+              "type": "text",
+              "text": "12306提供英文版网站和App，外国旅客可直接用护照在线购票，支持境内外银行卡及移动支付。"
+            }
+          ]
         },
         {
           "id": "arrival-2",
-          "title": "eSIM说明",
-          "titleEn": "eSIM Guide",
-          "content": "eSIM Notice (2026):\n\nMainland China eSIM is still in commercial trial. Only specific phones sold in mainland China (e.g. Mainland iPhone Air) support it. All overseas devices CANNOT install eSIM profiles for mainland China carriers.\n\nIf your phone is eSIM-only:\n- Bring a backup phone with physical SIM slot.\n- Rent portable WiFi at Chinese airports.\n- Use overseas travel eSIM (e.g. Airalo) for basic connectivity — but no local number means some apps (Didi, bike-sharing) won't work.",
-          "contentZh": "eSIM说明（2026年）：\n\n中国大陆eSIM仍处于商用试验阶段，仅支持国行特定机型（如国行iPhone Air）。所有海外版设备均无法安装中国大陆运营商的eSIM。\n\neSIM-only手机替代方案：\n- 携带一部支持实体SIM卡的备用手机。\n- 租赁便携式移动WiFi。\n- 使用境外旅行eSIM（如Airalo）保持基础网络连接，但无法获得本地手机号，部分App（滴滴、共享单车）可能无法使用。"
-        },
-        {
-          "id": "arrival-3",
           "title": "边检与海关申报",
           "titleEn": "Border Inspection & Customs",
           "content": "Part 1: Border Inspection - Arrival Card\n\nSince November 2025, China requires all foreign visitors to complete the Arrival Card online in advance, replacing the paper card.\n\nOfficial Free Channels (watch out for fake websites asking for payment):\n- Alipay/WeChat: Search for the immigration mini-program.\n- Web: https://s.nia.gov.cn/ArrivalCardFillingPC/\n- QR code at port or self-service kiosks.\n\nTips: Fill in 1-2 hours before landing. Add companions to share one form. Screenshot the QR code. Exempt: Foreign Permanent Resident ID holders, 24-hour transit.\n\nPart 2: Customs Declaration\n\nBased on Customs Decree No.276 (effective April 2025).\n\nCash Limits (MUST DECLARE):\n- Foreign currency: Over $5,000 USD equivalent.\n- RMB: Over 20,000 RMB.\n(Excess may be confiscated.)\n\nItems to Declare (Red Channel):\n- Animals/plants/products: raw meat, fresh fruit, dairy, bird's nest (canned exempt).\n- Personal items valued over 2,000 RMB intended to stay in China.\n- Cigarettes over 400 sticks, or 20 cigars, or 500g tobacco.\n- Alcohol (over 12% ABV) over 1,500ml.\n- Professional equipment (expensive cameras, laptops).\n\nProhibited: Weapons, drugs, counterfeit currency, harmful publications, soil, GMO materials.\n\nPart 3: Practical Tips\n\nPre-fill via: Search for customs declaration mini-program on Alipay/WeChat. Generate a black-and-white QR code.\n\nNote: The Immigration QR code and Customs QR code are TWO DIFFERENT codes. You need both.\n\nRed Channel = have items to declare. Green Channel = nothing to declare.\n\nMajor ports have multilingual staff.",
