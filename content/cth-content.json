@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-07-01",
   "guideChapters": [
     {
@@ -465,37 +465,7 @@
           "title": "会员专属客服",
           "titleEn": "Premium Support",
           "content": "30-Day Pass members get priority email support.\n\nEmail: banhao2026@gmail.com\n\nWe reply within 24 hours on business days.",
-          "contentZh": "30天会员可享优先邮件客服。\n\n邮箱：banhao2026@gmail.com\n\n工作日24小时内回复。",
-          "blocksEn": [
-            {
-              "type": "text",
-              "text": "30-Day Pass members get priority email support."
-            },
-            {
-              "type": "link",
-              "text": "Email: banhao2026@gmail.com",
-              "url": "mailto:banhao2026@gmail.com"
-            },
-            {
-              "type": "text",
-              "text": "We reply within 24 hours on business days."
-            }
-          ],
-          "blocksZh": [
-            {
-              "type": "text",
-              "text": "30天会员可享优先邮件客服。"
-            },
-            {
-              "type": "link",
-              "text": "邮箱: banhao2026@gmail.com",
-              "url": "mailto:banhao2026@gmail.com"
-            },
-            {
-              "type": "text",
-              "text": "工作日24小时内回复。"
-            }
-          ]
+          "contentZh": "30天会员可享优先邮件客服。\n\n邮箱：banhao2026@gmail.com\n\n工作日24小时内回复。"
         }
       ]
     }
