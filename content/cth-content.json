@@ -464,8 +464,8 @@
           "id": "help-1",
           "title": "会员专属客服",
           "titleEn": "Premium Support",
-          "content": "30-Day Pass members get priority email support.\n\nEmail: oniondata2026@gmail.com\n\nWe reply within 24 hours on business days.",
-          "contentZh": "30天会员可享优先邮件客服。\n\n邮箱：oniondata2026@gmail.com\n\n工作日24小时内回复。",
+          "content": "30-Day Pass members get priority email support.\n\nEmail: banhao2026@gmail.com\n\nWe reply within 24 hours on business days.",
+          "contentZh": "30天会员可享优先邮件客服。\n\n邮箱：banhao2026@gmail.com\n\n工作日24小时内回复。",
           "blocksEn": [
             {
               "type": "text",
@@ -473,8 +473,8 @@
             },
             {
               "type": "link",
-              "text": "Email: oniondata2026@gmail.com",
-              "url": "mailto:oniondata2026@gmail.com"
+              "text": "Email: banhao2026@gmail.com",
+              "url": "mailto:banhao2026@gmail.com"
             },
             {
               "type": "text",
@@ -488,8 +488,8 @@
             },
             {
               "type": "link",
-              "text": "邮箱: oniondata2026@gmail.com",
-              "url": "mailto:oniondata2026@gmail.com"
+              "text": "邮箱: banhao2026@gmail.com",
+              "url": "mailto:banhao2026@gmail.com"
             },
             {
               "type": "text",
