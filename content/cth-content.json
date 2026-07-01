@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-06-29",
+  "version": 4,
+  "updated": "2026-07-01",
   "guideChapters": [
     {
       "id": "arrival",
@@ -451,6 +451,51 @@
           "titleEn": "Cancellation & Refunds",
           "content": "Most ticketing platforms allow free cancellation 24 hours before the visit, but policies vary. On Trip.com, cancellation rules are clearly shown before purchase. Some promotional or holiday tickets may be non-refundable. If you can't get a refund, transfer the ticket to another person — most sites allow name changes for free before the visit date.",
           "contentZh": "大多数购票平台支持游览前24小时免费取消，但各平台政策不同。在Trip.com上，购票前会明确显示取消规则。部分促销票或假日票可能不可退款。如无法退款，可将门票转让给他人——大部分平台允许在游览日期前免费更改使用人信息。"
+        }
+      ]
+    },
+    {
+      "id": "help",
+      "title": "人工帮助",
+      "titleEn": "Help",
+      "icon": "📧",
+      "sections": [
+        {
+          "id": "help-1",
+          "title": "会员专属客服",
+          "titleEn": "Premium Support",
+          "content": "30-Day Pass members get priority email support.\n\nEmail: oniondata2026@gmail.com\n\nWe reply within 24 hours on business days.",
+          "contentZh": "30天会员可享优先邮件客服。\n\n邮箱：oniondata2026@gmail.com\n\n工作日24小时内回复。",
+          "blocksEn": [
+            {
+              "type": "text",
+              "text": "30-Day Pass members get priority email support."
+            },
+            {
+              "type": "link",
+              "text": "Email: oniondata2026@gmail.com",
+              "url": "mailto:oniondata2026@gmail.com"
+            },
+            {
+              "type": "text",
+              "text": "We reply within 24 hours on business days."
+            }
+          ],
+          "blocksZh": [
+            {
+              "type": "text",
+              "text": "30天会员可享优先邮件客服。"
+            },
+            {
+              "type": "link",
+              "text": "邮箱: oniondata2026@gmail.com",
+              "url": "mailto:oniondata2026@gmail.com"
+            },
+            {
+              "type": "text",
+              "text": "工作日24小时内回复。"
+            }
+          ]
         }
       ]
     }
