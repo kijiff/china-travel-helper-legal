@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-07-01",
+  "version": 6,
+  "updated": "2026-07-18",
   "guideChapters": [
     {
       "id": "arrival",
@@ -728,25 +728,25 @@
   },
   "emergencyContacts": [
     {
-      "id": "1",
+      "id": "emg_001",
       "name": "报警",
       "nameEn": "Police",
       "number": "110",
       "description": "紧急报警电话",
-      "descriptionEn": "Police emergency",
+      "descriptionEn": "Emergency police hotline",
       "type": "emergency"
     },
     {
-      "id": "2",
+      "id": "emg_002",
       "name": "急救",
       "nameEn": "Ambulance",
       "number": "120",
-      "description": "医疗紧急电话",
+      "description": "医疗急救电话",
       "descriptionEn": "Medical emergency",
       "type": "emergency"
     },
     {
-      "id": "3",
+      "id": "emg_003",
       "name": "火警",
       "nameEn": "Fire",
       "number": "119",
@@ -755,7 +755,7 @@
       "type": "emergency"
     },
     {
-      "id": "4",
+      "id": "emg_004",
       "name": "交通事故",
       "nameEn": "Traffic Accident",
       "number": "122",
@@ -764,39 +764,264 @@
       "type": "emergency"
     },
     {
-      "id": "5",
-      "name": "中国外交部领事保护热线",
-      "nameEn": "Consular Protection Hotline",
+      "id": "emb_001",
+      "name": "领事保护",
+      "nameEn": "Consular Protection",
       "number": "+86-10-12308",
       "description": "24小时领事保护热线",
-      "descriptionEn": "24-hour consular protection",
+      "descriptionEn": "24-hour consular protection hotline",
       "type": "embassy"
     },
     {
-      "id": "6",
+      "id": "emb_007",
+      "name": "美国驻华大使馆",
+      "nameEn": "US Embassy Beijing",
+      "number": "010-8531-3000",
+      "description": "北京市朝阳区安家楼路55号",
+      "descriptionEn": "No. 55 Anjialou Road, Chaoyang District",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_002",
+      "name": "美国驻上海总领事馆",
+      "nameEn": "US Consulate Shanghai",
+      "number": "021-6433-6880",
+      "description": "上海市淮海中路1469号",
+      "descriptionEn": "1469 Middle Huaihai Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_003",
+      "name": "美国驻广州总领事馆",
+      "nameEn": "US Consulate Guangzhou",
+      "number": "020-8121-8000",
+      "description": "广州市珠江新城华就路43号",
+      "descriptionEn": "43 Huajiu Road, Zhujiang New Town",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_004",
+      "name": "美国驻成都总领事馆",
+      "nameEn": "US Consulate Chengdu",
+      "number": "028-8558-3992",
+      "description": "成都市人民南路四段领事馆路4号",
+      "descriptionEn": "No. 4, Consulate Road, Renmin South Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_012",
+      "name": "日本驻华大使馆",
+      "nameEn": "Japan Embassy Beijing",
+      "number": "010-6532-2361",
+      "description": "北京市亮马桥东街1号",
+      "descriptionEn": "No. 1, Liangmaqiao East Street",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_008",
+      "name": "日本驻上海总领事馆",
+      "nameEn": "Japan Consulate Shanghai",
+      "number": "021-5257-4766",
+      "description": "上海市万山路8号",
+      "descriptionEn": "No. 8 Wanshan Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_009",
+      "name": "日本驻广州总领事馆",
+      "nameEn": "Japan Consulate Guangzhou",
+      "number": "020-8334-3009",
+      "description": "广州市环市东路368号花园酒店",
+      "descriptionEn": "Garden Hotel, 368 Huanshi East Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_019",
+      "name": "韩国驻华大使馆",
+      "nameEn": "Korea Embassy Beijing",
+      "number": "010-8531-0700",
+      "description": "北京市东方东路20号",
+      "descriptionEn": "No. 20 Dongfang East Road",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_013",
+      "name": "韩国驻上海总领事馆",
+      "nameEn": "Korea Consulate Shanghai",
+      "number": "021-6295-5000",
+      "description": "上海市娄山关路55号新虹桥大厦",
+      "descriptionEn": "New Hongqiao Building, 55 Loushanguan Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_014",
+      "name": "韩国驻广州总领事馆",
+      "nameEn": "Korea Consulate Guangzhou",
+      "number": "020-3887-0555",
+      "description": "广州市羊城国际贸易中心",
+      "descriptionEn": "Yangcheng International Trade Center",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_023",
+      "name": "英国驻华大使馆",
+      "nameEn": "UK Embassy Beijing",
+      "number": "010-5192-4000",
+      "description": "北京市光华路11号",
+      "descriptionEn": "No. 11 Guanghua Road",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_020",
+      "name": "英国驻上海总领事馆",
+      "nameEn": "UK Consulate Shanghai",
+      "number": "021-3279-8000",
+      "description": "上海市南京西路1376号上海商城",
+      "descriptionEn": "Shanghai Centre, 1376 West Nanjing Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_029",
+      "name": "法国驻华大使馆",
+      "nameEn": "France Embassy Beijing",
+      "number": "010-8532-8080",
+      "description": "北京市天泽路60号",
+      "descriptionEn": "No. 60 Tianze Road",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_024",
+      "name": "法国驻上海总领事馆",
+      "nameEn": "France Consulate Shanghai",
+      "number": "021-6010-6300",
+      "description": "上海市南京西路1788号",
+      "descriptionEn": "1788 West Nanjing Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_034",
+      "name": "德国驻华大使馆",
+      "nameEn": "Germany Embassy Beijing",
+      "number": "010-8532-9000",
+      "description": "北京市东直门外大街17号",
+      "descriptionEn": "No. 17 Dongzhimen Outer Street",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_030",
+      "name": "德国驻上海总领事馆",
+      "nameEn": "Germany Consulate Shanghai",
+      "number": "021-3401-0106",
+      "description": "上海市陆家嘴环路1288号",
+      "descriptionEn": "1288 Lujiazui Ring Road",
+      "type": "consulate"
+    },
+    {
+      "id": "emb_038",
+      "name": "加拿大驻华大使馆",
+      "nameEn": "Canada Embassy Beijing",
+      "number": "010-5139-4000",
+      "description": "北京市东直门外大街19号",
+      "descriptionEn": "No. 19 Dongzhimen Outer Street",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_042",
+      "name": "澳大利亚驻华大使馆",
+      "nameEn": "Australia Embassy Beijing",
+      "number": "010-5140-4111",
+      "description": "北京市东直门外大街21号",
+      "descriptionEn": "No. 21 Dongzhimen Outer Street",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_043",
+      "name": "新加坡驻华大使馆",
+      "nameEn": "Singapore Embassy Beijing",
+      "number": "010-6532-1115",
+      "description": "北京市秀水北街1号",
+      "descriptionEn": "No. 1 Xiushui North Street",
+      "type": "embassy"
+    },
+    {
+      "id": "emb_049",
+      "name": "泰国驻华大使馆",
+      "nameEn": "Thailand Embassy Beijing",
+      "number": "010-6532-1980",
+      "description": "北京市光华路21号",
+      "descriptionEn": "No. 21 Guanghua Road",
+      "type": "embassy"
+    },
+    {
+      "id": "srv_001",
       "name": "旅游投诉",
-      "nameEn": "Tourism Complaint",
+      "nameEn": "Tourism Hotline",
       "number": "12301",
       "description": "全国旅游服务热线",
       "descriptionEn": "National tourism service",
       "type": "service"
     },
     {
-      "id": "7",
+      "id": "srv_002",
       "name": "消费者投诉",
-      "nameEn": "Consumer Complaint",
+      "nameEn": "Consumer Hotline",
       "number": "12315",
-      "description": "消费者权益保护",
+      "description": "消费者权益保护热线",
       "descriptionEn": "Consumer rights protection",
       "type": "service"
     },
     {
-      "id": "8",
+      "id": "srv_003",
       "name": "天气预报",
-      "nameEn": "Weather Forecast",
+      "nameEn": "Weather",
       "number": "12121",
       "description": "气象信息查询",
       "descriptionEn": "Weather information",
+      "type": "service"
+    },
+    {
+      "id": "srv_004",
+      "name": "查号台",
+      "nameEn": "Directory",
+      "number": "114",
+      "description": "电话号码查询",
+      "descriptionEn": "Telephone directory",
+      "type": "service"
+    },
+    {
+      "id": "srv_005",
+      "name": "中国铁路",
+      "nameEn": "China Railway",
+      "number": "12306",
+      "description": "火车票订票服务",
+      "descriptionEn": "Train ticket booking",
+      "type": "service"
+    },
+    {
+      "id": "srv_006",
+      "name": "中国国际航空",
+      "nameEn": "Air China",
+      "number": "95583",
+      "description": "中国国际航空客服",
+      "descriptionEn": "Air China service",
+      "type": "service"
+    },
+    {
+      "id": "srv_007",
+      "name": "中国南方航空",
+      "nameEn": "China Southern",
+      "number": "95539",
+      "description": "中国南方航空客服",
+      "descriptionEn": "China Southern Airlines",
+      "type": "service"
+    },
+    {
+      "id": "srv_008",
+      "name": "中国东方航空",
+      "nameEn": "China Eastern",
+      "number": "95530",
+      "description": "中国东方航空客服",
+      "descriptionEn": "China Eastern Airlines",
       "type": "service"
     }
   ]
