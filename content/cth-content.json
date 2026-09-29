@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-07-18",
+  "version": 7,
+  "updated": "2026-09-29",
   "guideChapters": [
     {
       "id": "arrival",
@@ -473,39 +473,39 @@
   "priceData": {
     "categories": [
       {
-        "category": "Transportation",
+        "category": "交通出行",
         "categoryEn": "Transportation",
         "items": [
           {
-            "name": "Subway/Bus",
+            "name": "地铁/公交",
             "nameEn": "Subway/Bus",
             "price": "¥2-10",
             "priceEn": "¥2-10",
-            "description": "City public transport",
+            "description": "城市公共交通",
             "descriptionEn": "City public transport"
           },
           {
-            "name": "Taxi Start",
+            "name": "出租车起步价",
             "nameEn": "Taxi Start",
             "price": "¥10-14",
             "priceEn": "¥10-14",
-            "description": "Within 3 km",
+            "description": "前3公里",
             "descriptionEn": "Within 3 km"
           },
           {
-            "name": "Ride-hailing",
+            "name": "网约车（滴滴）",
             "nameEn": "Ride-hailing",
             "price": "¥15-30",
             "priceEn": "¥15-30",
-            "description": "City short trip",
+            "description": "城区短途",
             "descriptionEn": "City short trip"
           },
           {
-            "name": "Bike Share",
+            "name": "共享单车",
             "nameEn": "Bike Share",
-            "price": "¥1-3/hour",
+            "price": "¥1-3/小时",
             "priceEn": "¥1-3/hour",
-            "description": "Requires Chinese phone registration",
+            "description": "需中国手机号注册",
             "descriptionEn": "Requires Chinese phone registration"
           }
         ],
@@ -513,39 +513,39 @@
         "remarkEn": null
       },
       {
-        "category": "Food & Drink",
+        "category": "餐饮美食",
         "categoryEn": "Food & Drink",
         "items": [
           {
-            "name": "Local Eats",
+            "name": "本地小馆",
             "nameEn": "Local Eats",
-            "price": "¥30-80/person",
+            "price": "¥30-80/人",
             "priceEn": "¥30-80/person",
-            "description": "Chinese casual dining",
+            "description": "中式简餐",
             "descriptionEn": "Chinese casual dining"
           },
           {
-            "name": "Mid-range",
+            "name": "中档餐厅",
             "nameEn": "Mid-range",
-            "price": "¥80-150/person",
+            "price": "¥80-150/人",
             "priceEn": "¥80-150/person",
-            "description": "Table service restaurants",
+            "description": "点菜就餐",
             "descriptionEn": "Table service restaurants"
           },
           {
-            "name": "Street Food",
+            "name": "街头小吃",
             "nameEn": "Street Food",
             "price": "¥5-20",
             "priceEn": "¥5-20",
-            "description": "Snacks, pancakes, etc.",
+            "description": "包子、煎饼、烤串",
             "descriptionEn": "Snacks, pancakes, etc."
           },
           {
-            "name": "Bottled Water",
+            "name": "瓶装水",
             "nameEn": "Bottled Water",
             "price": "¥2-5",
             "priceEn": "¥2-5",
-            "description": "500ml bottle",
+            "description": "500ml装",
             "descriptionEn": "500ml bottle"
           }
         ],
@@ -553,23 +553,23 @@
         "remarkEn": null
       },
       {
-        "category": "Accommodation",
+        "category": "住宿",
         "categoryEn": "Accommodation",
         "items": [
           {
-            "name": "Budget Hotel",
+            "name": "经济型酒店",
             "nameEn": "Budget Hotel",
-            "price": "¥150-300/night",
+            "price": "¥150-300/晚",
             "priceEn": "¥150-300/night",
-            "description": "Chain hotels like Home Inn",
+            "description": "如家、汉庭等连锁",
             "descriptionEn": "Chain hotels like Home Inn"
           },
           {
-            "name": "Mid-range",
+            "name": "中档酒店",
             "nameEn": "Mid-range",
-            "price": "¥300-600/night",
+            "price": "¥300-600/晚",
             "priceEn": "¥300-600/night",
-            "description": "3-4 star standard",
+            "description": "3-4星级",
             "descriptionEn": "3-4 star standard"
           }
         ],
@@ -577,31 +577,31 @@
         "remarkEn": null
       },
       {
-        "category": "Attractions",
+        "category": "景点门票",
         "categoryEn": "Attractions",
         "items": [
           {
-            "name": "Forbidden City",
+            "name": "故宫",
             "nameEn": "Forbidden City",
             "price": "¥60",
             "priceEn": "¥60",
-            "description": "Peak season",
+            "description": "旺季票价",
             "descriptionEn": "Peak season"
           },
           {
-            "name": "Great Wall",
+            "name": "长城",
             "nameEn": "Great Wall",
             "price": "¥40",
             "priceEn": "¥40",
-            "description": "Badaling, peak season",
+            "description": "八达岭，旺季票价",
             "descriptionEn": "Badaling, peak season"
           },
           {
-            "name": "West Lake",
+            "name": "西湖",
             "nameEn": "West Lake",
-            "price": "Free",
+            "price": "免费",
             "priceEn": "Free",
-            "description": "Core scenic area",
+            "description": "核心景区",
             "descriptionEn": "Core scenic area"
           }
         ],
@@ -609,15 +609,15 @@
         "remarkEn": null
       },
       {
-        "category": "Shopping",
+        "category": "购物",
         "categoryEn": "Shopping",
         "items": [
           {
-            "name": "Supermarket",
+            "name": "超市",
             "nameEn": "Supermarket",
             "price": "¥50-200",
             "priceEn": "¥50-200",
-            "description": "Daily necessities",
+            "description": "日常生活用品",
             "descriptionEn": "Daily necessities"
           }
         ],
